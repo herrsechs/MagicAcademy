@@ -1,0 +1,17 @@
+<%-- 
+    Document   : question
+    Created on : 2015-4-6, 15:17:09
+    Author     : Liu
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>单人闯关</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+</html>
